@@ -1,0 +1,10 @@
+$page-title-margin : 2.5rem;
+$page-title-color : #555;
+.page-title {
+    color: $page-title-color;
+    margin-top: $page-title-margin;
+    margin-bottom: $page-title-margin;
+}
+input[type=search] {
+  box-shadow: none;
+}
